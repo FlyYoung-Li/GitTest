@@ -7,5 +7,6 @@
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("这是git测试");
+        System.out.println("现在就是，要推送本地库到远程库的测试");
     }
 }
